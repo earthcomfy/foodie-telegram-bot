@@ -167,7 +167,7 @@ def start_game(update: Update, context: CallbackContext):
 
 
 def main() -> None:
-    updater = Updater(token='1899388930:AAGXbbNV-wBqfdMJZvMcKZtmhzvXPLYHVSI', use_context=True)
+    updater = Updater(token='YOUR TOKEN', use_context=True)
     dispatcher = updater.dispatcher
 
     dispatcher.add_handler(CommandHandler('start', start))
