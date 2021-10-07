@@ -29,4 +29,4 @@ pip install requests==2.25.1
 
 
 
-*Thanks to @surhud004 for providing the API.*
+*Thanks to [@surhud00](https://github.com/surhud004) for providing the API.*
