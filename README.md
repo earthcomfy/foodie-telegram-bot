@@ -3,7 +3,8 @@
 This telegram bot is built using the popular python-telegram-bot library. It also uses an [API](https://foodish-api.herokuapp.com/) made by [@surhud004](https://github.com/surhud004). 
 I built this project to get an experience in bot development, fetching data from an api, and web scraping using BeautifulSoup. Oh, and because I love food too :laughing:
 
-![start](https://user-images.githubusercontent.com/66206865/136410373-480973ae-ebfd-409a-84cb-9f5542e8872a.jpg)
+![Start](https://user-images.githubusercontent.com/66206865/136411889-06bf857a-c668-42d6-ab86-253e07f8b53f.jpg)
+
 
 ## Basic features of the bot
 
@@ -25,7 +26,8 @@ pip install requests==2.25.1
 ```
 4. Run the module and go to the bot you created in step 1. Hit start and enjoy!
 
-![food](https://user-images.githubusercontent.com/66206865/136410387-f55800c3-1de0-4c08-9de8-213816c1067d.jpg)
+![Burger](https://user-images.githubusercontent.com/66206865/136411939-1f0c48db-7d17-4b36-9210-a01f19ecb047.jpg)
+
 
 
 
