@@ -1,6 +1,6 @@
 # Get Random Pictures of Food - A Simple Telegram Bot
 
-This telegram bot is built using the popular python-telegram-bot library. It also uses an [API](https://foodish-api.herokuapp.com/) made by @surhud004. 
+This telegram bot is built using the popular python-telegram-bot library. It also uses an [API](https://foodish-api.herokuapp.com/) made by [@surhud004](https://github.com/surhud004). 
 I built this project to get an experience in bot development, fetching data from an api, and web scraping using BeautifulSoup. Oh, and because I love food too :laughing:
 
 ![start](https://user-images.githubusercontent.com/66206865/136410373-480973ae-ebfd-409a-84cb-9f5542e8872a.jpg)
